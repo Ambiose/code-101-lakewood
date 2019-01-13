@@ -1,0 +1,60 @@
+html {
+    height: 100%;
+  }
+  
+  body {
+    margin: 0;
+    height: 100%;
+    font-family: helvetica; 
+    background: lightgray; 
+  }
+  
+  a {
+    color: whitesmoke;
+  }
+  
+  header {
+    padding: 10px;
+    background: darkgray ;
+    color: ;
+    text-shadow: 1px 1px 1px #000;
+    text-align: center;
+  }
+  
+  nav {
+    background-color ;
+  }
+  
+  nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    background: lightgray;
+  }
+  
+  nav ul li {
+    display: inline-block;
+    margin: 20px;
+    font-size: 24px;
+  }
+  
+  section {
+    width: 95%;
+    margin: 0 auto;
+    padding: 5px;
+    min-height: 800px;
+    margin-left: 46%;
+    font-size: 35px;
+  }
+  
+  section img {
+    margin-left: 38%;
+    
+  }
+  
+  footer {
+    clear: left;
+    padding: 10px;
+    background: ;
+    text-align: center ;
+  }
